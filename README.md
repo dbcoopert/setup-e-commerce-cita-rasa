@@ -1,6 +1,6 @@
-## E-COMMERCE CITA RASA NUSANTARA
+# E-COMMERCE CITA RASA NUSANTARA
 
-# Anggota
+## Anggota
 - Asep Mardianto
 - Sakalangit
 - Ahmad Ghifari
